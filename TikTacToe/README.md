@@ -31,32 +31,25 @@ This is a simple terminal-based **Tic-Tac-Toe game** written in the C programmin
 
 ```bash
 gcc tic_tac_toe.c -o tic_tac_toe
-```
+
 
 ./tic_tac_toe
 Player 1 (x), enter your move: 11
 
-x | |
-
+x |   |
 ---
-
-     |   |
-
+  |   |
 ---
-
-     |   |
+  |   |
 
 Player 2 (o), enter your move: 22
 
 x | |
-
 ---
-
-     | o |
-
+  | o |
 ---
-
-     |   |
+  |   |
+```
 
 Future Improvements
 AI opponent mode (basic or minimax)

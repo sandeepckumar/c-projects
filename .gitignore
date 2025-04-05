@@ -1,0 +1,32 @@
+# === OS-specific files ===
+.DS_Store
+Thumbs.db
+
+# === Compiled binary ===
+*.out
+*.exe
+*.o
+*.obj
+*.a
+*.so
+*.dll
+
+# === Build files ===
+*.log
+*.dep
+*.dSYM/
+*.stackdump
+
+# === VS Code settings ===
+.vscode/
+.code-workspace
+
+# === Backup & temporary files ===
+*~
+*.swp
+*.swo
+*.tmp
+
+# === Generated files ===
+*.bak
+*.bin
