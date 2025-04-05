@@ -51,6 +51,8 @@ x |   |
   |   |
 ```
 
+---
+
 ## Future Improvements
 
 - AI opponent mode (basic or minimax)
