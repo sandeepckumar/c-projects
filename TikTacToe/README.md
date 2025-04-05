@@ -44,16 +44,15 @@ x |   |
 
 Player 2 (o), enter your move: 22
 
-x | |
+x |   |
 ---
   | o |
 ---
   |   |
 ```
 
-Future Improvements
-AI opponent mode (basic or minimax)
+## Future Improvements
 
-Scoring and replay option
-
-Better UI with colored output
+- AI opponent mode (basic or minimax)
+- Scoring and replay option
+- Better UI with colored output
